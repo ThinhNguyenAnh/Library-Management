@@ -6,7 +6,7 @@
 
 Manage user:
 
-- CRUD user (admin role in system)
+- CRUD user (ADMIN role)
 - Change status of user (Active | Inative)
 
 Shopping cart:
