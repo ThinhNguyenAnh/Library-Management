@@ -14,6 +14,7 @@ Shopping cart:
 - Add book to cart
 - View cart , update , delete products
 
-- Check out: Create a bill, send email about the information of products and price
+Check out:
+- Create a bill, send email about the information of products and price
 
 
